@@ -1,2 +1,2 @@
 # AndroidLifecycle
-Android Lifecycle
+Android Lifecycle with its various stages.
